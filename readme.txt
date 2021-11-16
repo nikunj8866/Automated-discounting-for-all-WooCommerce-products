@@ -1,4 +1,5 @@
-# Automated-discounting-for-all-WooCommerce-products
+==== Automated discounting for all WooCommerce products ====
+
 == Description ==
 
 Automated discounting for all WooCommerce products plugin allows you to seasonal discounting promotion on your WooCommerce store.
