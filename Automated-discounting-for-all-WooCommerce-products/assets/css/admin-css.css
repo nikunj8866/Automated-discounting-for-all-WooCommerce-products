@@ -1,0 +1,6 @@
+#save-wadap table { width: 50%; }
+#save-wadap .field-error { border: 1px solid red;}
+#save-wadap.processing { opacity: 0.5;}
+@media only screen and (max-width: 768px) {
+    #save-wadap table { width: 100%;}
+  }
